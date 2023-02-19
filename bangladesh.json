@@ -1,4 +1,54 @@
 [
+
+
+ {
+    "category": "World TOP 5 ",
+    "items": [
+     {
+        "name": "CNN",
+        "description": "",
+        "url": "https://www.edition.cnn.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/edition.cnn.com.jpg",
+        "category": "IMPORTANT INTERNATIONAL TV",
+        "language": "Bangla"
+      },
+      {
+        "name": "Aljazeera",
+        "description": "",
+        "url": "https://www.aljazeera.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/aljazeera.com.jpg",
+        "category": "IMPORTANT INTERNATIONAL TV",
+        "language": "English"
+      },
+      {
+        "name": "BBC",
+        "description": "",
+        "url": "https://www.bbc.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/bbc.com.jpg",
+        "category": "IMPORTANT INTERNATIONAL TV",
+        "language": "English"
+      },
+      {
+        "name": "NDTV",
+        "description": "",
+        "url": "https://www.ndtv.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/ndtv.com.jpg",
+        "category": "IMPORTANT INTERNATIONAL TV",
+        "language": "English"
+      },
+      {
+        "name": "Reuters",
+        "description": "",
+        "url": "https://www.reuters.com/",
+        "iconUrl": "https://www.allbanglanewspaper.xyz/assets/reuters.com.jpg",
+        "category": "IMPORTANT INTERNATIONAL TV",
+        "language": "English"
+      },
+     
+
+]
+},
+
   {
     "category": "ONLINE",
     "items": [
