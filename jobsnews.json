@@ -1,0 +1,52 @@
+[
+   {
+      "Most Popular":[
+         {
+            "category":"ONLINE",
+            "items":[
+               {
+                  "name":"BD News 24",
+                  "description":"",
+                  "url":"https://bangla.bdnews24.com/",
+                  "iconUrl":"https://www.allbanglanewspaper.xyz/assets/bangla.bdnews24.com.jpg",
+                  "category":"ONLINE",
+                  "language":"Bangla"
+               },
+               {
+                  "name":"Bangla News 24",
+                  "description":"",
+                  "url":"https://www.banglanews24.com/",
+                  "iconUrl":"https://www.allbanglanewspaper.xyz/assets/banglanews24.com.jpg",
+                  "category":"ONLINE",
+                  "language":"Bangla"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "newspaper":[
+         {
+            "category":"ONLINE",
+            "items":[
+               {
+                  "name":"BD News 24",
+                  "description":"",
+                  "url":"https://bangla.bdnews24.com/",
+                  "iconUrl":"https://www.allbanglanewspaper.xyz/assets/bangla.bdnews24.com.jpg",
+                  "category":"ONLINE",
+                  "language":"Bangla"
+               },
+               {
+                  "name":"Bangla News 24",
+                  "description":"",
+                  "url":"https://www.banglanews24.com/",
+                  "iconUrl":"https://www.allbanglanewspaper.xyz/assets/banglanews24.com.jpg",
+                  "category":"ONLINE",
+                  "language":"Bangla"
+               }
+            ]
+         }
+      ]
+   }
+]
