@@ -1,5 +1,185 @@
 [
   {
+    "category": "Top 10 Daily",
+    "items": [
+      {
+        "name": "Daily Prothom alo",
+        "description": "",
+        "url": "https://www.prothomalo.com/",
+        "iconUrl": "https://www.allbanglanewspapersbd.com/img-files/dailynewspapers/prothomalo.png",
+        "category": "Top 10 Daily Newspaper",
+        "language": "Bangla"
+      },
+      {
+        "name": "Bangladesh Pratidin",
+        "description": "",
+        "url": "https://www.bd-pratidin.com/",
+        "iconUrl": "https://www.allbanglanewspapersbd.com/img-files/dailynewspapers/bd-pratidin.png",
+        "category": "Top 10 Daily Newspaper",
+        "language": "Bangla"
+      },
+      {
+        "name": "Jugantor",
+        "description": "",
+        "url": "https://www.jugantor.com/",
+        "iconUrl": "https://www.allbanglanewspapersbd.com/img-files/dailynewspapers/jugantor.png",
+        "category": "Top 10 Daily Newspaper",
+        "language": "Bangla"
+      },
+      {
+        "name": "Kaler Kantho",
+        "description": "",
+        "url": "https://www.kalerkantho.com/",
+        "iconUrl": "https://www.allbanglanewspapersbd.com/img-files/dailynewspapers/kalerkantho.png",
+        "category": "Top 10 Daily Newspaper",
+        "language": "Bangla"
+      },
+      {
+        "name": "Samakal",
+        "description": "",
+        "url": "https://www.samakal.com/",
+        "iconUrl": "https://www.allbanglanewspapersbd.com/img-files/dailynewspapers/samakal.png",
+        "category": "Top 10 Daily Newspaper",
+        "language": "Bangla"
+      }
+    ]
+  },
+  {
+    "category": "Top 10 Online",
+    "items": [
+      {
+        "name": "Jago News 24",
+        "description": "",
+        "url": "https://www.jagonews24.com/",
+        "iconUrl": "https://www.allbanglanewspapersbd.com/img-files/onlinenewspapers/jagonews24.png",
+        "category": "Top 10 Online Newspaper",
+        "language": "Bangla"
+      },
+      {
+        "name": "BD News 24",
+        "description": "",
+        "url": "https://www.bdnews24.com/",
+        "iconUrl": "https://www.allbanglanewspapersbd.com/img-files/onlinenewspapers/bdnews24.png",
+        "category": "Top 10 Online Newspaper",
+        "language": "Bangla"
+      },
+      {
+        "name": "Bangla News 24",
+        "description": "",
+        "url": "https://www.banglanews24.com/",
+        "iconUrl": "https://www.allbanglanewspapersbd.com/img-files/onlinenewspapers/banglanews24.png",
+        "category": "Top 10 Online Newspaper",
+        "language": "Bangla"
+      },
+      {
+        "name": "Risingbd",
+        "description": "",
+        "url": "https://www.risingbd.com/",
+        "iconUrl": "https://www.allbanglanewspapersbd.com/img-files/onlinenewspapers/risingbd.png",
+        "category": "Top 10 Online Newspaper",
+        "language": "Bangla"
+      },
+      {
+        "name": "Dhaka Post",
+        "description": "",
+        "url": "https://www.dhakapost.com/",
+        "iconUrl": "https://www.allbanglanewspapersbd.com/img-files/onlinenewspapers/dhaka-post.png",
+        "category": "Top 10 Online Newspaper",
+        "language": "Bangla"
+      }
+    ]
+  },
+  {
+    "category": "Top 10 TV/Channel",
+    "items": [
+      {
+        "name": "Somoy TV",
+        "description": "",
+        "url": "https://www.somoynews.tv/",
+        "iconUrl": "https://www.allbanglanewspapersbd.com/img-files/tvnews/somoynews.png",
+        "category": "Top 10 TV/Channel",
+        "language": "Bangla"
+      },
+      {
+        "name": "RTV Online",
+        "description": "",
+        "url": "https://www.rtvonline.com/",
+        "iconUrl": "https://www.allbanglanewspapersbd.com/img-files/tvnews/rtvonline.png",
+        "category": "Top 10 TV/Channel",
+        "language": "Bangla"
+      },
+      {
+        "name": "NTV BD",
+        "description": "",
+        "url": "https://www.ntvbd.tv/",
+        "iconUrl": "https://www.allbanglanewspapersbd.com/img-files/tvnews/ntvbd.png",
+        "category": "Top 10 TV/Channel",
+        "language": "Bangla"
+      },
+      {
+        "name": "Channel I",
+        "description": "",
+        "url": "https://www.channelionline.com/",
+        "iconUrl": "https://www.allbanglanewspapersbd.com/img-files/tvnews/channelionline.png",
+        "category": "Top 10 TV/Channel",
+        "language": "Bangla"
+      },
+      {
+        "name": "Ekattor TV",
+        "description": "",
+        "url": "https://www.ekattor.tv/",
+        "iconUrl": "https://www.allbanglanewspapersbd.com/img-files/tvnews/ekattor.png",
+        "category": "Top 10 TV/Channel",
+        "language": "Bangla"
+      }
+    ]
+  },
+  {
+    "category": "Top 10 Local",
+    "items": [
+      {
+        "name": "Dainik Azadi",
+        "description": "",
+        "url": "https://dainikazadi.net/",
+        "iconUrl": "https://www.allbanglanewspapersbd.com/img-files/local-newspapers/dainikazadi.png",
+        "category": "Top 10 Local Newspaper",
+        "language": "Bangla"
+      },
+      {
+        "name": "Dainik Purbokone",
+        "description": "",
+        "url": "https://dainikpurbokone.net/",
+        "iconUrl": "https://www.allbanglanewspapersbd.com/img-files/local-newspapers/dainikpurbokone.png",
+        "category": "Top 10 Local Newspaper",
+        "language": "Bangla"
+      },
+      {
+        "name": "Ctg Times",
+        "description": "",
+        "url": "https://ctgtimes.com/",
+        "iconUrl": "https://www.allbanglanewspapersbd.com/img-files/local-newspapers/ctgtimes.png",
+        "category": "Top 10 Local Newspaper",
+        "language": "Bangla"
+      },
+      {
+        "name": "Comillar Kagoj",
+        "description": "",
+        "url": "https://www.comillarkagoj.com/",
+        "iconUrl": "https://www.allbanglanewspapersbd.com/img-files/local-newspapers/comillarkagoj.jpg",
+        "category": "Top 10 Local Newspaper",
+        "language": "Bangla"
+      },
+      {
+        "name": "Dainik Purbanchal",
+        "description": "",
+        "url": "https://www.purbanchal.com/",
+        "iconUrl": "https://www.allbanglanewspapersbd.com/img-files/local-newspapers/purbanchal.png",
+        "category": "Top 10 Local Newspaper",
+        "language": "Bangla"
+      }
+    ]
+  },
+  {
     "category": "ONLINE",
     "items": [
       {
